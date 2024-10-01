@@ -1,1 +1,27 @@
-
+<style>
+div.doop {
+        width: 50%;
+        height: 100px;
+        background-color: white;
+        transition: background-color 2s;
+        transition-delay: 1.5s;
+        box-sizing: border-box;
+        padding: 10px;
+        color: black;
+    }
+    div:hover {
+        background-color: black;
+    }
+    p.poop {
+        color: white;
+    }
+table, tr, td {
+        border: 1px solid black;
+    }
+div.impaired {
+        border-radius: 100px 100px 100px 100px/ 100px 100px 100px 100px;
+        background-color:blue;
+        height: 250px;
+        padding: 15px;
+    }
+</style>
