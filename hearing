@@ -1,1 +1,59 @@
-
+<!DOCTYPE html>
+  <html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta  name="viewpoint" content="width=device-width, intial-scale=1.0">
+        <title> Hobby</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1> for my impaired</h1>
+        <div class="impaired">
+        <a href="hearing.html"> Hearing</a>
+        <a href="seeing.html"> Seeing</a>
+        <a href="Keyboard.html"> Keyboard</a>
+        </div>
+        <li>
+          <ul>
+              <li> Watching cooking Videos</li>
+              <li> learning recipes<li>
+              <li> playing</li> 
+          </ul>
+          <p.yup> If I had to order them<p/>
+          <ol>
+              <li> Playing</li>
+              <li> learning recipes<li>
+              <li> Watching food videos</li> 
+          </ol>
+        </li>
+        <table class="poop>
+           <caption>Types</captions>
+           <thead>
+              <tr>
+                <th>in dirt</th>
+                <th>physical games</th>
+                <th>online games</th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr>
+               <td>dinner</td>
+               <td>snacks</td>
+               <td>sweets</td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+            <td colspan="4">same as learning recipes</td>
+            </tr>
+          </tfoot>
+      </table>
+      <div>
+            <img src="thankyou.png" alt="thank you in sign language" height="auto">
+      </div>
+      <form>
+        Sign up if you wanna know more:<br/>
+        <input type="submit">
+      </form>
+     </div>
+  </html>
