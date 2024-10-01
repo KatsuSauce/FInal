@@ -27,10 +27,36 @@
           </ol>
         </li>
         <table class="poop>
-        
-        </table>
-    </body>
-    <foot>
-
-    </foot>
+           <caption>Types</captions>
+           <thead>
+              <tr>
+                <th>in dirt</th>
+                <th>physical games</th>
+                <th>online games</th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr>
+               <td>dinner</td>
+               <td>snacks</td>
+               <td>sweets</td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+            <td colspan="4">same as learning recipes</td>
+            </tr>
+          </tfoot>
+      </table>
+      <div class="doop">
+            Move your cursor here and wait.
+            <p class="poop">
+            THANK YOU FOR VIEWING
+            </p>
+      </div>
+      <form>
+        Sign up if you wanna know more:<br/>
+        <input type="submit">
+      </form>
+     </div>
   </html>
